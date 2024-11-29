@@ -1,4 +1,4 @@
-# IDN CARD TAMPERING DETECTION  
+# ID CARD TAMPERING DETECTION  
 
 This repository contains a Jupyter Notebook that demonstrates techniques to detect tampering on IDN cards. The notebook includes preprocessing, feature extraction, and detection algorithms to analyze potential tampering.  
 
