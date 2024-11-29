@@ -4,11 +4,7 @@ This repository contains a Jupyter Notebook that demonstrates techniques to dete
 
 ## TABLE OF CONTENTS  
 - [FEATURES](#features)  
-- [REQUIREMENTS](#requirements)  
-- [INSTALLATION](#installation)  
-- [USAGE](#usage)  
-- [CONTRIBUTING](#contributing)  
-- [LICENSE](#license)  
+- [REQUIREMENTS](#requirements)   
 
 ## FEATURES  
 - **Data Preprocessing**: Cleans and prepares the input data for analysis.  
@@ -21,7 +17,3 @@ Ensure you have the following installed:
 - Jupyter Notebook  
 - Required libraries listed in `requirements.txt`.  
 
-## INSTALLATION  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/yourusername/idncardtampering.git  
